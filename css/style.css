@@ -1,0 +1,11 @@
+label,input {
+	display: block;
+}
+
+.valid {
+	border: 1px solid green;
+}
+
+.invalid {
+	border: 1px solid red;
+}
