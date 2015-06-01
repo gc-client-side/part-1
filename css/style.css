@@ -1,4 +1,22 @@
-label,input {
+/* temp styles */
+body {
+  padding-left: 3em;
+  font-family: Arial;
+}
+
+#sign-up > div {
+	padding-bottom: 0.5em;
+}
+
+.error {
+	display: inline-block;
+	color: red;
+	margin-left: 1em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+label {
 	display: block;
 }
 
